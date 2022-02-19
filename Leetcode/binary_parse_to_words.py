@@ -26,7 +26,7 @@ mapping = {
 input = "0001101000110100011110110111001111100"
 
 seq = list(input)  # store the sequence into list
-s1 = ""  # for temporay store
+s1 = ""  # for temporary store
 s2 = ""
 
 for ind in input:
