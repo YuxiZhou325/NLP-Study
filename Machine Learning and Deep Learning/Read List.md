@@ -1,10 +1,7 @@
 <h1>Read List</h1>
-
 > This is a consolidated area for me to store some useful links I use for studying Machine Learning and Depp Learning
 > Last Update: 15th Nov 2023
-
 <h2>Transformers</h2>
-
 - [深度学习中Dropout层作用](https://blog.csdn.net/PETERPARKERRR/article/details/121888093?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169974314716800182738775%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169974314716800182738775&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-121888093-null-null.142^v96^pc_search_result_base8&utm_term=dropout%E5%B1%82%E7%9A%84%E4%BD%9C%E7%94%A8&spm=1018.2226.3001.4187)
 
 - [伯努利分布、二项分布、多项分布、Beta分布、Dirichlet分布](https://blog.csdn.net/kingzone_2008/article/details/80584743?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169974323916800184190392%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169974323916800184190392&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-80584743-null-null.142^v96^pc_search_result_base8&utm_term=%E4%BC%AF%E5%8A%AA%E5%88%A9%E5%88%86%E5%B8%83&spm=1018.2226.3001.4187)
