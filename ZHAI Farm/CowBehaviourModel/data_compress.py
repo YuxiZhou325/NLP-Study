@@ -13,7 +13,7 @@ import pandas as pd
 from scipy.linalg import hadamard
 from scipy.ndimage import uniform_filter1d
 
-df = pd.read_csv('Data/nolableAccDataLabeled_Tag3_Cow638_2021-03-04.csv', header=None)
+df = pd.read_csv('nolableAccDataLabeled_Tag5_Cow733_2021-03-05.csv', header=None)
 
 timestamp = df[0]
 
